@@ -4,4 +4,7 @@ This blocklist is intentioned to use with other blocklistst for adult content, s
 
 It is not intended to serve as a "complete" blocklist, but to close gaps, that were discovered within my network while using said blocklist.
 
-For everyone interested, simply add the raw representation to you own blocklists.
+Also, this list will not be under active development, but rather can be seen as a centralized way to store this addition,
+while making it availab for others, that might have an interest in this list.
+
+So, for everyone interested, please feel free to simply add the raw representation to you own blocklists.

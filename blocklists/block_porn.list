@@ -6,7 +6,22 @@
 #
 # ===============================================================
 
-0.0.0.0 dirty-angel.bdsmlr.com
+# Domains, that still cause problems
+# ===============================================================
+
 0.0.0.0 gifsporn.net
+
+# Domains, blocked successfully
+# ===============================================================
+# ===============================================================
+
+0.0.0.0 dirty-angel.bdsmlr.com
+0.0.0.0 galleries.fuckstudies.com
 0.0.0.0 go.hookupexposed.com
 0.0.0.0 sexwall.me
+0.0.0.0 single-treffpunkt.com
+0.0.0.0 mediasama.com
+
+# Add pages
+# ===============================================================
+0.0.0.0 beateuhsetelefonsex.com

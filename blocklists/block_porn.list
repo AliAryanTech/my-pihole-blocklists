@@ -9,10 +9,9 @@
 # Testing
 # ===============================================================
 # ===============================================================
-0.0.0.0 www.xxxxselfie.com
-0.0.0.0 www.pussybook.xyz
-0.0.0.0 www.info-fremdgehen69.com
-0.0.0.0 www.tindertrk.com
+0.0.0.0 www.info-chatzone.com
+0.0.0.0 www.stripchat.com
+0.0.0.0 www.cambro.tv
 
 # Domains, that still cause problems
 # ===============================================================
@@ -20,10 +19,8 @@
 0.0.0.0 128.199.99.250
 0.0.0.0 afausss.org
 0.0.0.0 beateuhsetelefonsex.com
-0.0.0.0 cambro.tv
 0.0.0.0 data.jpg4.biz
 0.0.0.0 gifsporn.net
-0.0.0.0 info-chatzone.com
 0.0.0.0 mediasama.com
 0.0.0.0 mydirtyhobby.de
 0.0.0.0 nudesftw.com
@@ -41,7 +38,11 @@
 0.0.0.0 beeg.porn
 0.0.0.0 busy.org
 0.0.0.0 cdn.ero-shame.info
+0.0.0.0 cdn.stripst.com
 0.0.0.0 cdni.pornpics.de
+0.0.0.0 cdnpictureasset.com
+0.0.0.0 creative.schjmp.com
+0.0.0.0 creative.strpjmp.com
 0.0.0.0 css.pornpics.de
 0.0.0.0 cumception.com
 0.0.0.0 date.diskretehausfrauen.com
@@ -50,10 +51,10 @@
 0.0.0.0 de.xhamster.com
 0.0.0.0 de.xhamster2.com
 0.0.0.0 deine-schonheit.de
-0.0.0.0 en.pornosearch.guru
-0.0.0.0 eurosexporno.com
 0.0.0.0 dirty-angel.bdsmlr.com
 0.0.0.0 displayadvertising.com
+0.0.0.0 en.pornosearch.guru
+0.0.0.0 eurosexporno.com
 0.0.0.0 en.photo-pic.cyou
 0.0.0.0 facialabuse.cc
 0.0.0.0 familysimulator.com
@@ -73,6 +74,8 @@
 0.0.0.0 healthy-men.net
 0.0.0.0 hd-thesexy.ru
 0.0.0.0 hpawd.pornpics.de
+0.0.0.0 img.stripcdn.com
+0.0.0.0 img.strpst.com
 0.0.0.0 img4fap.club
 0.0.0.0 instaflrt.com
 0.0.0.0 ironchefsworld.com
@@ -116,6 +119,7 @@
 0.0.0.0 sexteen.link
 0.0.0.0 sexwall.me
 0.0.0.0 single-treffpunkt.com
+0.0.0.0 st.stripcdn.com
 0.0.0.0 static.hpawd.pornpics.de
 0.0.0.0 static.pornpics.de
 0.0.0.0 stats.pornpics.de
@@ -149,16 +153,20 @@
 0.0.0.0 youngtits.mobi
 0.0.0.0 zoee.xyz
 
-# Domains, only blocked with www entry
+# Domains, only blocked with www prefix
 # ===============================================================
 # ===============================================================
 0.0.0.0 www.cumonwives.com
 0.0.0.0 www.flirt-treffen.com
 0.0.0.0 www.freieporno.com
 0.0.0.0 www.girlnude.link
+0.0.0.0 www.info-fremdgehen69.com
 0.0.0.0 www.pornpics.de
 0.0.0.0 www.megatube.xxx
 0.0.0.0 www.pornotube.com
+0.0.0.0 www.pussybook.xyz
 0.0.0.0 www.richards-realm.com
 0.0.0.0 www.seethemfuck.com
+0.0.0.0 www.tindertrk.com
 0.0.0.0 www.wifebucket.com
+0.0.0.0 www.xxxxselfie.com

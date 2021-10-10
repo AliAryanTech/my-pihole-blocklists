@@ -53,11 +53,15 @@
 0.0.0.0 creatorsblog.xhamster.com
 0.0.0.0 static-lvlt.xhcdn.com
 0.0.0.0 thumb-user.xhcdn.com
+0.0.0.0 thumb-lvlt.xhcdn.com
+0.0.0.0 thumb-v2.xhcdn.com
+0.0.0.0 thumb-v6.xhcdn.com
 0.0.0.0 thumb-v9.xhcdn.com
 0.0.0.0 video3.xhcdn.com
 0.0.0.0 video5.xhcdn.com
 0.0.0.0 it.xhamster.com
 0.0.0.0 cz.xhamster.com
+0.0.0.0 es.xhamster.com
 0.0.0.0 ru.xhamster.com
 0.0.0.0 sv.xhamster.com
 0.0.0.0 ro.xhamster.com
@@ -176,7 +180,6 @@
 0.0.0.0 picsegg.com
 0.0.0.0 platincasino.com
 0.0.0.0 pornogifs.net
-0.0.0.0 pornpics.de
 0.0.0.0 poweredby.jads.co
 0.0.0.0 prostoporno.contact
 0.0.0.0 rapidgatorporn.net
@@ -193,9 +196,6 @@
 0.0.0.0 single-treffpunkt.com
 0.0.0.0 sopornvideos.com
 0.0.0.0 st.stripcdn.com
-0.0.0.0 static.hpawd.pornpics.de
-0.0.0.0 static.pornpics.de
-0.0.0.0 stats.pornpics.de
 0.0.0.0 syndication.realsrv.com
 0.0.0.0 susi.live
 0.0.0.0 syberpussy.com
@@ -242,7 +242,6 @@
 0.0.0.0 www.girlnude.link
 0.0.0.0 www.info-chatzone.com
 0.0.0.0 www.info-fremdgehen69.com
-0.0.0.0 www.pornpics.de
 0.0.0.0 www.megatube.xxx
 0.0.0.0 www.mydirtyhobby.de
 0.0.0.0 www.nudesftw.com
@@ -258,3 +257,14 @@
 0.0.0.0 www.wifebucket.com
 0.0.0.0 www.xpanty.com
 0.0.0.0 www.xxxxselfie.com
+
+# Pornpics
+0.0.0.0 hpacdn.pornpics.de
+0.0.0.0 pornpics.com
+0.0.0.0 pornpics.de
+0.0.0.0 rsd.pornpics.de
+0.0.0.0 static.hpawd.pornpics.de
+0.0.0.0 static.pornpics.de
+0.0.0.0 stats.pornpics.de
+0.0.0.0 www.pornpics.com
+0.0.0.0 www.pornpics.de

@@ -10,17 +10,40 @@
 # ===============================================================
 # ===============================================================
 0.0.0.0 www.yahoo.com
+0.0.0.0 www.yahoo.at
+0.0.0.0 www.yahoo.de
 0.0.0.0 yahoo.com
+0.0.0.0 yahoo.at
+0.0.0.0 yahoo.de
+
+0.0.0.0 www.de.yahoo.com
+0.0.0.0 www.es.yahoo.com
+0.0.0.0 www.fr.yahoo.com
+0.0.0.0 www.it.yahoo.com
+0.0.0.0 www.qc.yahoo.com
+0.0.0.0 de.yahoo.com
+0.0.0.0 es.yahoo.com
+0.0.0.0 fr.yahoo.com
+0.0.0.0 it.yahoo.com
+0.0.0.0 qc.yahoo.com
+
+0.0.0.0 www.de.search.yahoo.com
+0.0.0.0 www.es.search.yahoo.com
+0.0.0.0 www.fr.search.yahoo.com
+0.0.0.0 www.it.search.yahoo.com
+0.0.0.0 www.nl.search.yahoo.com
+0.0.0.0 www.qc.search.yahoo.com
+0.0.0.0 de.search.yahoo.com
+0.0.0.0 es.search.yahoo.com
+0.0.0.0 fr.search.yahoo.com
+0.0.0.0 it.search.yahoo.com
+0.0.0.0 nl.search.yahoo.com
+0.0.0.0 qc.search.yahoo.com
+
 0.0.0.0 www.login.yahoo.com
 0.0.0.0 login.yahoo.com
 0.0.0.0 www.search.yahoo.com
 0.0.0.0 search.yahoo.com
-0.0.0.0 www.yahoo.de
-0.0.0.0 yahoo.de
-0.0.0.0 www.de.yahoo.com
-0.0.0.0 de.yahoo.com
-0.0.0.0 www.de.search.yahoo.com
-0.0.0.0 de.search.yahoo.com
 0.0.0.0 www.de.nachrichten.yahoo.com
 0.0.0.0 de.nachrichten.yahoo.com
 0.0.0.0 www.de.hilfe.yahoo.com

@@ -1,0 +1,9 @@
+# Hostfile
+#
+# Author: Evil List
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/EvilList/my-pihole-blocklist/main/blocklists/block_porn.list
+#
+# ===============================================================
+
+0.0.0.0 trafokit.com

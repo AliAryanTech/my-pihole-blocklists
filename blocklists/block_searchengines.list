@@ -1,0 +1,56 @@
+# Hostfile
+#
+# Author: Evil List
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/EvilList/my-pihole-blocklist/main/blocklists/block_searchengines.list
+#
+# ===============================================================
+
+# Force safesearch on google domains
+# ===============================================================
+# ===============================================================
+216.239.38.120 www.google.com
+216.239.38.120 google.com
+216.239.38.120 www.google.de
+216.239.38.120 google.de
+
+
+# Force safesearch on bing domains
+# ===============================================================
+# ===============================================================
+204.79.197.220 www.bing.com
+204.79.197.220 bing.com
+
+# Block yahoo, as the do not provide safesearch via DNS
+# ===============================================================
+# ===============================================================
+0.0.0.0 www.yahoo.com
+0.0.0.0 yahoo.com
+0.0.0.0 www.login.yahoo.com
+0.0.0.0 login.yahoo.com
+0.0.0.0 www.search.yahoo.com
+0.0.0.0 search.yahoo.com
+0.0.0.0 www.yahoo.de
+0.0.0.0 yahoo.de
+0.0.0.0 www.de.yahoo.com
+0.0.0.0 de.yahoo.com
+0.0.0.0 www.de.search.yahoo.com
+0.0.0.0 de.search.yahoo.com
+
+# Block duckduckgo, as the do not provide safesearch via DNS
+# ===============================================================
+# ===============================================================
+0.0.0.0 www.duckduckgo.com
+0.0.0.0 duckduckgo.com
+
+# Block startpage, as the do not provide safesearch via DNS
+# ===============================================================
+# ===============================================================
+0.0.0.0 www.startpage.com
+0.0.0.0 startpage.com
+
+# Block ecosia, as the do not provide safesearch via DNS
+# ===============================================================
+# ===============================================================
+0.0.0.0 www.ecosia.org
+0.0.0.0 ecosia.org

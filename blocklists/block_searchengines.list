@@ -21,6 +21,11 @@
 0.0.0.0 de.yahoo.com
 0.0.0.0 www.de.search.yahoo.com
 0.0.0.0 de.search.yahoo.com
+0.0.0.0 www.de.nachrichten.yahoo.com
+0.0.0.0 de.nachrichten.yahoo.com
+0.0.0.0 www.de.hilfe.yahoo.com
+0.0.0.0 de.hilfe.yahoo.com
+
 
 # Block duckduckgo, as the do not provide safesearch via DNS
 # ===============================================================

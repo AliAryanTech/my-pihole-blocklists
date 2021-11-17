@@ -1,2 +1,22 @@
+# Hostfile
+#
+# Author: Evil List
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/EvilList/my-pihole-blocklist/main/blocklists/block_implicit_porn.list
+#
+# ===============================================================
+
+# Pixiv
+0.0.0.0 a.pixiv.org
+0.0.0.0 imp.pixiv.net
 0.0.0.0 pixiv.net
+0.0.0.0 tag-store.ads-pixiv.net
 0.0.0.0 www.pixiv.net
+
+# Toomics
+0.0.0.0 thumb-g1.toomics.com
+0.0.0.0 thumb-g2.toomics.com
+0.0.0.0 toomics.com
+0.0.0.0 toomics.de
+0.0.0.0 www.toomics.com
+0.0.0.0 www.toomics.de

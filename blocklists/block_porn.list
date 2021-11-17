@@ -43,11 +43,6 @@
 0.0.0.0 pornhun.xyz
 0.0.0.0 orgasmstorypics.com
 
-0.0.0.0 www.tightpussypics.com
-0.0.0.0 cdni.tightpussypics.com
-0.0.0.0 css.tightpussypics.com
-0.0.0.0 tightpussypics.com
-
 # Domains, that still cause problems
 # ===============================================================
 # ===============================================================
@@ -320,6 +315,10 @@
 0.0.0.0 www.youramateurporn.com
 0.0.0.0 www.xcams.com
 
+# Complex domains
+# ===============================================================
+# ===============================================================
+
 # Pornhub
 0.0.0.0 de.pornhub.com
 0.0.0.0 pornhub.com
@@ -344,6 +343,12 @@
 0.0.0.0 creative.xxxjmp.com
 0.0.0.0 go.dmzjmp.com
 0.0.0.0 go.xxxjmp.com
+
+# tightpussypics
+0.0.0.0 www.tightpussypics.com
+0.0.0.0 cdni.tightpussypics.com
+0.0.0.0 css.tightpussypics.com
+0.0.0.0 tightpussypics.com
 
 # xHamster
 0.0.0.0 cnt.xhamster.com
@@ -374,6 +379,15 @@
 0.0.0.0 video5.xhcdn.com
 0.0.0.0 www.xhamster.com
 0.0.0.0 xhamster.com
+
+# xVideos
+0.0.0.0 cdn77-pic.xvideos-cdn.com
+0.0.0.0 img-hw.xvideos-cdn.com
+0.0.0.0 img-l3.xvideos-cdn.com
+0.0.0.0 static.xvideos.com
+0.0.0.0 static-ss.xvideos-cdn.com
+0.0.0.0 www.xvideos.com
+0.0.0.0 xvideos.com
 
 # Youporn
 0.0.0.0 di1.ypncdn.com

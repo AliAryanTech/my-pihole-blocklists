@@ -119,6 +119,13 @@
 0.0.0.0 www.pornopicsamateur.com
 0.0.0.0 thumb.pornpicsamateur.com
 
+# RedTube
+0.0.0.0 redtube.com
+0.0.0.0 de.redtube.com
+0.0.0.0 fr.redtube.com
+0.0.0.0 it.redtube.com
+0.0.0.0 www.redtube.com
+
 # Shemale.movie
 0.0.0.0 shemale.movie
 0.0.0.0 de.shemale.movie
@@ -147,6 +154,11 @@
 0.0.0.0 creative.xxxjmp.com
 0.0.0.0 creative.schjmp.com
 0.0.0.0 creative.strpjmp.com
+
+# Sunporno
+0.0.0.0 sunporno.com
+0.0.0.0 m.sunporno.com
+0.0.0.0 www.sunporno.com
 
 # Tightpussypics
 0.0.0.0 www.tightpussypics.com

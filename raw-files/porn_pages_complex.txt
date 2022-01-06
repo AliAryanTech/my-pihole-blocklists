@@ -8,6 +8,11 @@
 0.0.0.0 x.adult-empire.com
 0.0.0.0 www.adult-empire.com
 
+# akceleratorbiznesu
+0.0.0.0 aebn.net
+0.0.0.0 m.aebn.net
+0.0.0.0 www.aebn.net
+
 # Analdin
 0.0.0.0 analdin.com
 0.0.0.0 i.analdin.com

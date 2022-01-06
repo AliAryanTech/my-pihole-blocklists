@@ -585,8 +585,6 @@
 0.0.0.0 www.pornone.com
 0.0.0.0 pornotube.com
 0.0.0.0 www.pornotube.com
-0.0.0.0 pornoxo.xxx
-0.0.0.0 www.pornoxo.xxx
 0.0.0.0 pornpapa.com
 0.0.0.0 www.pornpapa.com
 0.0.0.0 pornpicsamateur.com
@@ -607,6 +605,8 @@
 0.0.0.0 www.pornvideoteens.com
 0.0.0.0 pornwatchers.com
 0.0.0.0 www.pornwatchers.com
+0.0.0.0 pornxo.xxx
+0.0.0.0 www.pornxo.xxx
 0.0.0.0 pornxteen.com
 0.0.0.0 www.pornxteen.com
 0.0.0.0 pornyoung.me
@@ -739,6 +739,8 @@
 0.0.0.0 www.sweetxxxworld.com
 0.0.0.0 syberpussy.com
 0.0.0.0 www.syberpussy.com
+0.0.0.0 system-update.77s15r0b6eh2.top
+0.0.0.0 www.system-update.77s15r0b6eh2.top
 0.0.0.0 tagstube.com
 0.0.0.0 www.tagstube.com
 0.0.0.0 tds.gosexfinder.com
@@ -1379,6 +1381,14 @@
 0.0.0.0 static-ss.xvideos-cdn.com
 0.0.0.0 www.xvideos.com
 0.0.0.0 xvideos.com
+
+# XXX-CDN
+0.0.0.0 0.xxx-cdn.com
+0.0.0.0 a.xxx-cdn.com
+0.0.0.0 b.xxx-cdn.com
+0.0.0.0 c.xxx-cdn.com
+0.0.0.0 d.xxx-cdn.com
+0.0.0.0 e.xxx-cdn.com
 
 # Youporn
 0.0.0.0 di1.ypncdn.com

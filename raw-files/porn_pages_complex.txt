@@ -201,6 +201,11 @@
 0.0.0.0 en.wearehairy.com
 0.0.0.0 www.wearehairy.com
 
+# Wildspank
+0.0.0.0 wildspank.com
+0.0.0.0 m.wildspank.com
+0.0.0.0 www.wildspank.com
+
 # xCams
 0.0.0.0 xcams.com
 0.0.0.0 m.xcams.com

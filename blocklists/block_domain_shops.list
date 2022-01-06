@@ -1,0 +1,12 @@
+# Hostfile
+#
+# Author: Evil List
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/EvilList/my-pihole-blocklists/main/blocklists/block_adpages.list
+#
+# ===============================================================
+
+0.0.0.0 afternic.com
+0.0.0.0 www.afternic.com
+
+0.0.0.0 sell.sawbrokers.com

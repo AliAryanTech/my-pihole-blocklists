@@ -274,6 +274,14 @@
 0.0.0.0 www.xvideos.com
 0.0.0.0 xvideos.com
 
+# XXX-CDN
+0.0.0.0 0.xxx-cdn.com
+0.0.0.0 a.xxx-cdn.com
+0.0.0.0 b.xxx-cdn.com
+0.0.0.0 c.xxx-cdn.com
+0.0.0.0 d.xxx-cdn.com
+0.0.0.0 e.xxx-cdn.com
+
 # Youporn
 0.0.0.0 di1.ypncdn.com
 0.0.0.0 di2.ypncdn.com

@@ -13,16 +13,16 @@ def parseArgs(argv):
     try:
         opts, args = getopt.getopt(argv, "ho:", ["option="])
     except getopt.GetoptError:
-        print('usage: create_hostfiles.py -o <option>')
+        print('usage: order_pages.py -o <option>')
         sys.exit(2)
     
     if not opts:
-        print('usage: create_hostfiles.py -o <option>')
+        print('usage: order_pages.py -o <option>')
         sys.exit()
     else:
         for opt, arg in opts:
             if opt == '-h':
-                print('usage: create_hostfiles.py -o <option>')
+                print('usage: order_pages.py -o <option>')
                 sys.exit()
             elif opt in ("-o", "--option"):
                 return arg

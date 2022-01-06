@@ -32,6 +32,11 @@
 0.0.0.0 m.bravotube.net
 0.0.0.0 www.bravotube.net
 
+# Cambaddies.com
+0.0.0.0 cambaddies.com
+0.0.0.0 de.cambaddies.com
+0.0.0.0 www.cambaddies.com
+
 # Cumonwives
 0.0.0.0 cumonwives.com
 0.0.0.0 www.cumonwives.com
@@ -140,6 +145,15 @@
 0.0.0.0 sopornvideos.com
 0.0.0.0 img.sopornvideos.com
 0.0.0.0 www.sopornvideos.com
+
+# Space-Of-Dating
+0.0.0.0 space-of-dating.top
+0.0.0.0 space-of-datings.top
+0.0.0.0 a.space-of-datings.top
+0.0.0.0 b.space-of-datings.top
+0.0.0.0 c.space-of-datings.top
+0.0.0.0 d.space-of-datings.top
+0.0.0.0 e.space-of-datings.top
 
 # Stripcam
 0.0.0.0 stripcam.xxx

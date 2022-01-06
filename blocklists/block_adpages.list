@@ -1,56 +1,56 @@
 # Hostfile
 #
 # Author: Evil List
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/EvilList/my-pihole-blocklists/main/blocklists/block_adpages.list
-#
-# ===============================================================
+# ===========================
 
 0.0.0.0 adspyglass.com
-0.0.0.0 exofrwe.com
-0.0.0.0 mixandfun.com
-0.0.0.0 trafokit.com
-0.0.0.0 displayadvertising.com
-0.0.0.0 deine-schonheit.de
-0.0.0.0 healthy-men.net
-0.0.0.0 syndication.realsrv.com
-0.0.0.0 ironchefsworld.com
-0.0.0.0 lotto-bayern.de
-0.0.0.0 rabatt65.com
-0.0.0.0 get-money-to.shop
-0.0.0.0 dendranthe4edm7um.com
-0.0.0.0 clickadilla.com
-0.0.0.0 jrpkizae.com
-0.0.0.0 butterholz.de
-0.0.0.0 phone-guard.org
-0.0.0.0 ioffers.icu
-0.0.0.0 berlipurplin.com
-0.0.0.0 androidnotify.com
-0.0.0.0 batterytockeck.com
-0.0.0.0 online-club.club
-
 0.0.0.0 www.adspyglass.com
-0.0.0.0 www.exofrwe.com
-0.0.0.0 www.mixandfun.com
-0.0.0.0 www.trafokit.com
-0.0.0.0 www.displayadvertising.com
-0.0.0.0 www.deine-schonheit.de
-0.0.0.0 www.healthy-men.net
-0.0.0.0 www.syndication.realsrv.com
-0.0.0.0 www.ironchefsworld.com
-0.0.0.0 www.lotto-bayern.de
-0.0.0.0 www.rabatt65.com
-0.0.0.0 www.get-money-to.shop
-0.0.0.0 www.dendranthe4edm7um.com
-0.0.0.0 www.clickadilla.com
-0.0.0.0 www.jrpkizae.com
-0.0.0.0 www.butterholz.de
-0.0.0.0 www.phone-guard.org
-0.0.0.0 www.ioffers.icu
-0.0.0.0 www.berlipurplin.com
+0.0.0.0 adxad.com
+0.0.0.0 www.adxad.com
+0.0.0.0 androidnotify.com
 0.0.0.0 www.androidnotify.com
+0.0.0.0 batterytockeck.com
 0.0.0.0 www.batterytockeck.com
+0.0.0.0 berlipurplin.com
+0.0.0.0 www.berlipurplin.com
+0.0.0.0 butterholz.de
+0.0.0.0 www.butterholz.de
+0.0.0.0 clickadilla.com
+0.0.0.0 www.clickadilla.com
+0.0.0.0 deine-schonheit.de
+0.0.0.0 www.deine-schonheit.de
+0.0.0.0 dendranthe4edm7um.com
+0.0.0.0 www.dendranthe4edm7um.com
+0.0.0.0 displayadvertising.com
+0.0.0.0 www.displayadvertising.com
+0.0.0.0 exofrwe.com
+0.0.0.0 www.exofrwe.com
+0.0.0.0 get-money-to.shop
+0.0.0.0 www.get-money-to.shop
+0.0.0.0 healthy-men.net
+0.0.0.0 www.healthy-men.net
+0.0.0.0 ioffers.icu
+0.0.0.0 www.ioffers.icu
+0.0.0.0 ironchefsworld.com
+0.0.0.0 www.ironchefsworld.com
+0.0.0.0 jrpkizae.com
+0.0.0.0 www.jrpkizae.com
+0.0.0.0 lotto-bayern.de
+0.0.0.0 www.lotto-bayern.de
+0.0.0.0 mixandfun.com
+0.0.0.0 www.mixandfun.com
+0.0.0.0 online-club.club
 0.0.0.0 www.online-club.club
+0.0.0.0 online-security-center.com
+0.0.0.0 www.online-security-center.com
+0.0.0.0 phone-guard.org
+0.0.0.0 www.phone-guard.org
+0.0.0.0 rabatt65.com
+0.0.0.0 www.rabatt65.com
+0.0.0.0 syndication.realsrv.com
+0.0.0.0 www.syndication.realsrv.com
+0.0.0.0 system-update.77s15r0b6eh2.top0.0.0.0 www.system-update.77s15r0b6eh2.top0.0.0.0 trafokit.com
+0.0.0.0 www.trafokit.com
 
 # Redrhino
 0.0.0.0 redrhino.zendesk.com

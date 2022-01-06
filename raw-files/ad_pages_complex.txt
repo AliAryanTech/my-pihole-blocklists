@@ -1,0 +1,8 @@
+# Redrhino
+0.0.0.0 redrhino.zendesk.com
+0.0.0.0 redrhino-static.casinomodule.com
+
+# platincasino
+0.0.0.0 platincasino.com
+0.0.0.0 www.platincasino.com
+0.0.0.0 cdn-aws.platincasino.com
